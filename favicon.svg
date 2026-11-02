@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Equip</title>
+  <rect width="64" height="64" rx="14" fill="#07383d"/>
+  <g fill="#d9f9e9">
+    <rect x="13" y="15" width="17" height="17" rx="3"/>
+    <rect x="13" y="36" width="17" height="17" rx="3"/>
+    <rect x="34" y="36" width="17" height="17" rx="3"/>
+  </g>
+  <rect x="37" y="10" width="18" height="18" rx="3" fill="#13c1ba"/>
+</svg>
